@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: core
+  description: Core ecosystem
+spec:
+  owner: core-team
+  domain: core
